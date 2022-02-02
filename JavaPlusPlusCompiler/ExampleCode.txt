@@ -1,0 +1,17 @@
+Copy this code to the compiler and compile it. The result of 3 addressed code will be stored in 3AddressCode.txt.
+
+class Test{
+	main(){
+		int a;
+		a = 2;
+		int b;
+		int c;
+		input(b);
+		a = a + b;
+		if (a > 4) {
+			c = a * 6;
+		} else {
+		    c = 55;
+		}
+	}
+};
